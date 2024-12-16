@@ -1,0 +1,255 @@
+Time                 | Category                  | Name                      | Price      | Stock      | Weight     | Sold       | Tags                
+1704449200           | Food                      | Biscuit                   | 10000      | 69         | 100        | 10         | Biscuit             
+1704450000           | Food                      | Wafer                     | 10000      | 95         | 100        | 10         | Wafer               
+1704450800           | Food                      | Ruma                      | 15000      | 98         | 150        | 15         | Biscuit             
+1704451600           | Food                      | Instant Noodles           | 15000      | 100        | 150        | 15         | Energy              
+1704452400           | Food                      | Snack-It                  | 5000       | 150        | 50         | 30         | Snack               
+1704453200           | Food                      | Noodles                   | 12000      | 200        | 80         | 25         | Instant             
+1704454000           | Food                      | Crispy Chicken            | 12000      | 100        | 250        | 20         | Snack               
+1704454800           | Food                      | Sushi Roll                | 25000      | 79         | 200        | 15         | Japanese Food       
+1704455600           | Food                      | Nachitos                  | 8000       | 200        | 100        | 20         | Snack               
+1704456400           | Food                      | Burger-Man                | 20000      | 50         | 300        | 18         | Fast Food           
+1704457200           | Food                      | Sweet Cake                | 15000      | 60         | 500        | 12         | Dessert             
+1704458000           | Food                      | Cream Donut               | 7000       | 150        | 200        | 25         | Dessert             
+1704458800           | Food                      | Breakfast Cereal          | 10000      | 100        | 300        | 40         | Breakfast           
+1704459600           | Food                      | Crisp-Oreo                | 12000      | 80         | 120        | 20         | Biscuit             
+1704460400           | Food                      | Espresso Snack            | 9000       | 100        | 80         | 18         | Caffeine            
+1704461200           | Drink                     | Bubble Tea                | 11000      | 90         | 300        | 15         | Snack               
+1704462000           | Drink                     | Coca-Cola                 | 7000       | 100        | 1000       | 15         | Soda                
+1704462800           | Drink                     | Mineral Water             | 2000       | 100        | 200        | 0          | Healthy             
+1704463600           | Drink                     | Iced Coffee               | 12000      | 150        | 300        | 50         | Caffeine            
+1704464400           | Drink                     | Aqua Fresh                | 2500       | 300        | 500        | 0          | Healthy             
+1704465200           | Home Appliances           | Max Blender               | 200000     | 30         | 500        | 50         | Kitchen             
+1704466000           | Electronics               | Refrigerator              | 3500000    | 15         | 2000       | 75         | Kitchen             
+1704466800           | Books                     | Learning Python           | 80000      | 300        | 100        | 5          | Programming         
+1704467600           | Books                     | Encyclopedia              | 200000     | 50         | 500        | 30         | Knowledge           
+1704468400           | Building Materials        | Super Cement              | 50000      | 100        | 1000       | 10         | Construction        
+1704469200           | Sports Equipment          | Stationary Bike           | 3000000    | 10         | 700        | 50         | Fitness             
+1704470000           | Home Appliances           | Vacuum Cleaner            | 1500000    | 20         | 600        | 30         | Cleaning            
+1704470800           | Home Appliances           | Pressure Cooker           | 300000     | 40         | 400        | 20         | Kitchen             
+1704471600           | Home Appliances           | Vacuum Cleaner            | 500000     | 60         | 700        | 25         | Cleaning            
+1704472400           | Electronics               | Smartwatch                | 2000000    | 30         | 300        | 50         | Wearable            
+1704473200           | Electronics               | Camera Drone              | 8000000    | 10         | 1500       | 100        | Photography         
+1704474000           | Electronics               | Wi-Fi Router              | 500000     | 80         | 200        | 15         | Internet            
+1704474800           | Books                     | Modern Philosophy         | 120000     | 150        | 200        | 8          | Non-Fiction         
+1704475600           | Books                     | Superhero Comics          | 50000      | 200        | 100        | 3          | Fiction             
+1704476400           | Books                     | Gardening Guide           | 90000      | 100        | 150        | 5          | Education           
+1704477200           | Building Materials        | Teak Wood                 | 80000      | 500        | 400        | 20         | Construction        
+1704478000           | Building Materials        | PVC Pipe                  | 15000      | 1000       | 100        | 3          | Construction        
+1704478800           | Building Materials        | Floor Tiles               | 60000      | 300        | 300        | 15         | Decoration          
+1704479600           | Building Materials        | Wooden Door               | 400000     | 20         | 1000       | 15         | Decoration          
+1704480400           | Office Supplies           | Office Desk               | 1200000    | 10         | 800        | 35         | Furniture           
+1704481200           | Office Supplies           | Ergonomic Chair           | 1500000    | 20         | 500        | 25         | Furniture           
+1704482000           | Office Supplies           | Wall Calendar             | 20000      | 300        | 50         | 2          | Stationery          
+1704482800           | Office Supplies           | Desk Lamp                 | 100000     | 100        | 200        | 10         | Decoration          
+1704483600           | Sports Equipment          | Boxing Gloves             | 120000     | 50         | 150        | 10         | Fitness             
+1704484400           | Sports Equipment          | Basketball                | 150000     | 70         | 200        | 12         | Games               
+1704485200           | Sports Equipment          | Swimming Suit             | 250000     | 60         | 250        | 8          | Clothing            
+1704486000           | Sports Equipment          | Dumbbell Set              | 500000     | 30         | 500        | 25         | Weightlifting       
+1704486800           | Beauty Tools              | Hair Dryer                | 300000     | 80         | 150        | 10         | Hair Care           
+1704487600           | Beauty Tools              | Hair Straightener         | 400000     | 70         | 200        | 15         | Hair Care           
+1704488400           | Beauty Tools              | Electric Shaver           | 350000     | 100        | 300        | 12         | Grooming            
+1704489200           | Beauty Tools              | Face Mask                 | 50000      | 200        | 50         | 3          | Skin Care           
+1704490000           | Toys & Hobbies            | 1000-Piece Puzzle         | 80000      | 120        | 200        | 5          | Education           
+1704490800           | Toys & Hobbies            | Action Figure             | 150000     | 60         | 100        | 20         | Collection          
+1704491600           | Toys & Hobbies            | LEGO Set                  | 300000     | 40         | 300        | 15         | Creativity          
+1704492400           | Toys & Hobbies            | Remote Control Car        | 500000     | 50         | 400        | 25         | Entertainment       
+1704493200           | Baby Supplies             | Disposable Diapers        | 100000     | 500        | 200        | 5          | Baby Care           
+1704494000           | Baby Supplies             | Baby Bottle               | 80000      | 300        | 150        | 8          | Baby Care           
+1704494800           | Baby Supplies             | Baby Walker               | 350000     | 30         | 500        | 20         | Child Development   
+1704495600           | Baby Supplies             | Baby Car Seat             | 1000000    | 20         | 800        | 50         | Child Safety        
+1704500000           | Clothing                  | Shirt                     | 110000     | 80         | 500        | 12         | Clothing
+1704500100           | Clothing                  | Jeans                     | 82000      | 50         | 1200       | 20         | Clothing
+1704500200           | Clothing                  | Jacket                    | 180000     | 35         | 1500       | 5          | Winter
+1704500300           | Clothing                  | Hoodie                    | 165000     | 25         | 1300       | 17         | Clothing 
+1704500400           | Clothing                  | Dress                     | 350000     | 45         | 800        | 10         | Woman
+1704500500           | Clothing                  | Blouse                    | 200000     | 30         | 500        | 15         | Woman
+1704500600           | Clothing                  | Pants                     | 275000     | 60         | 1200       | 25         | Bottoms
+1704500700           | Clothing                  | Skirt                     | 150000     | 40         | 700        | 22         | Bottoms
+1704500800           | Clothing                  | Suit                      | 1000000    | 10         | 3000       | 3          | Formal
+1704500900           | Clothing                  | Shorts                    | 125000     | 50         | 600        | 20         | Bottoms
+1704501000           | Clothing                  | Sweater                   | 325000     | 20         | 900        | 8          | Winter
+1704501100           | Clothing                  | Pajamas                   | 180000     | 25         | 600        | 10         | Sleep
+1704501200           | Clothing                  | Tank Top                  | 85000      | 100        | 400        | 35         | Clothing
+1704501300           | Clothing                  | Polo Shirt                | 175000     | 45         | 500        | 15         | Clothing
+1704501400           | Clothing                  | Cardigan                  | 300000     | 30         | 1000       | 12         | Clothing
+1704501500           | Clothing                  | Coat                      | 1500000    | 15         | 4000       | 2          | Rain
+1704501600           | Clothing                  | Tracksuit                 | 450000     | 20         | 2500       | 8          | Sports
+1704501700           | Clothing                  | Socks                     | 25000      | 200        | 100        | 50         | Clothing
+1704501800           | Clothing                  | Scarf                     | 75000      | 70         | 300        | 25         | Winter
+1704501900           | Cars                      | Toyoda Camry              | 1200000000 | 5          | 1800000    | 1          | Sedan
+1704502000           | Cars                      | Hondari Civic             | 500000000  | 8          | 1500000    | 2          | Sedan
+1704502100           | Cars                      | Mercedes Banz             | 2100000000 | 3          | 2100000    | 0          | Luxury
+1704502200           | Cars                      | BMW Mini                  | 1800000000 | 4          | 1600000    | 1          | Compact
+1704502300           | Cars                      | Audimobile A4             | 1500000000 | 7          | 1900000    | 3          | Sedan
+1704502400           | Cars                      | Porshce 911               | 2100050000 | 2          | 1800000    | 0          | Motorsport
+1704502500           | Cars                      | Volksbug Beetle           | 700000000  | 10         | 1400000    | 5          | Hatchback
+1704502600           | Cars                      | Lexis RX                  | 1800000000 | 6          | 2300000    | 2          | SUV
+1704502700           | Cars                      | Mitsubaru Lancer          | 850000000  | 9          | 1500000    | 4          | Sedan
+1704502800           | Cars                      | Ferrarious F8             | 2117000000 | 1          | 1600000    | 0          | Convertible
+1704502900           | Cars                      | Nissando Altima           | 900000000  | 7          | 1700000    | 6          | Sedan
+1704503000           | Cars                      | Kiaris Sportage           | 1100000000 | 6          | 1800000    | 3          | SUV
+1704503100           | Cars                      | Hyundai Sonata            | 1000000000 | 8          | 2000000    | 2          | Sedan
+1704503200           | Cars                      | Chevrolix Silverado       | 1600000000 | 5          | 2500000    | 1          | Pickup
+1704503300           | Cars                      | Jeepster Wrangler         | 1200000000 | 10         | 2200000    | 4          | SUV
+1704503400           | Cars                      | Cadiluxe Escalade         | 2000000000 | 4          | 2800000    | 0          | Luxury
+1704503500           | Cars                      | Subaruto Impreza          | 950000000  | 6          | 1800000    | 2          | Sedan
+1704503600           | Cars                      | Rangerover Sport          | 2100000000 | 3          | 2500000    | 1          | SUV
+1704503700           | Cars                      | Lamborghoini Huracan      | 2147400000 | 2          | 1500000    | 0          | Supercar
+1704510500           | Cars                      | Ferrora LaFerrora         | 2000001000 | 50         | 2000000    | 13         | Supercar
+1704503800           | Electronics               | Samsang Galaxy S22        | 12000000   | 20         | 180        | 10         | Smartphone
+1704503900           | Electronics               | Huaway MatePad 11         | 7000000    | 15         | 600        | 8          | Tablet
+1704504000           | Electronics               | Appel MacPro M2           | 30000000   | 10         | 1500       | 3          | Laptop
+1704504100           | Electronics               | Lenobo ThinkTank X1       | 25000000   | 8          | 1800       | 2          | Laptop
+1704504200           | Electronics               | HP Spectacular x360       | 22000000   | 6          | 1400       | 1          | Laptop
+1704504300           | Electronics               | Dellusion XPS 15          | 28000000   | 7          | 2000       | 3          | Laptop
+1704504500           | Electronics               | Xiaome Note 13 Pro        | 4500000    | 30         | 200        | 15         | Smartphone
+1704504600           | Electronics               | Oppoo FindMe X5           | 12000000   | 12         | 220        | 5          | Smartphone
+1704504700           | Electronics               | Realman GT Neo 5          | 7000000    | 20         | 210        | 10         | Smartphone
+1704504800           | Electronics               | Sony Xperia III           | 14000000   | 8          | 200        | 4          | Smartphone
+1704504900           | Electronics               | LG UltraWipe 4K           | 15000000   | 5          | 7000       | 1          | Monitor
+1704505000           | Electronics               | Toshibe Dynabook Ultra    | 18000000   | 9          | 1300       | 3          | Laptop
+1704505100           | Electronics               | Panazonic Viera 55        | 8000000    | 12         | 12000      | 4          | Television
+1704505200           | Electronics               | Philips ZoomBar X200      | 3000000    | 15         | 2000       | 7          | Soundbar
+1704505300           | Electronics               | Sharpie AQUOS Sense       | 8500000    | 10         | 10000      | 2          | Television
+1704505400           | Electronics               | Bluedio Hi-Fi Supreme     | 5000000    | 25         | 400        | 12         | Headphones
+1704505500           | Electronics               | Jabra Elite Pro Max       | 2500000    | 40         | 200        | 18         | Earphones
+1704505600           | Electronics               | Bose WaveSound 300        | 12000000   | 5          | 2500       | 3          | Speaker
+1704505700           | Electronics               | Ankler PowerCore 26800    | 1200000    | 50         | 400        | 25         | Powerbank
+1704505800           | Electronics               | Belkin BoostCharge Max    | 600000     | 60         | 300        | 30         | Charger
+1704505900           | Home Appliances           | Whirlpool Tornado Max     | 3500000    | 20         | 8000       | 12         | Washing Machine
+1704506000           | Home Appliances           | Electrotux SilentClean    | 2500000    | 25         | 5000       | 18         | Vacuum Cleaner
+1704506100           | Home Appliances           | Panazonic BreezeMaster    | 2000000    | 30         | 10000      | 20         | Fan
+1704506200           | Home Appliances           | LG NeoWash 500            | 4000000    | 15         | 8500       | 10         | Washing Machine
+1704506300           | Home Appliances           | Sharpie FreshFreeze XL    | 6000000    | 10         | 40000      | 5          | Refrigerator
+1704506400           | Home Appliances           | Philips PureSteam X5      | 1500000    | 35         | 2000       | 25         | Iron
+1704506500           | Home Appliances           | Toshibe AirComfort 4000   | 5000000    | 8          | 30000      | 3          | Air Conditioner
+1704506600           | Home Appliances           | Honeywell SmartTemp Pro   | 8000000    | 6          | 12000      | 2          | Heater
+1704506700           | Home Appliances           | Hitachoo CoolWave Plus    | 4500000    | 12         | 15000      | 8          | Air Conditioner
+1704506800           | Home Appliances           | Boschman DishHelper 700   | 7000000    | 9          | 10000      | 4          | Dishwasher
+1704506900           | Home Appliances           | Kenwood MixMaster 800     | 1800000    | 20         | 5000       | 15         | Mixer
+1704507000           | Home Appliances           | Brevillia ToastTime Elite | 1000000    | 40         | 3000       | 30         | Toaster
+1704507100           | Home Appliances           | Miele WonderVac Mini      | 1200000    | 25         | 2500       | 20         | Vacuum Cleaner
+1704507200           | Home Appliances           | Cuisidart ChefBake XL     | 6000000    | 8          | 20000      | 3          | Oven
+1704507300           | Home Appliances           | Frigidaire CoolKeeper 12  | 4000000    | 10         | 18000      | 5          | Refrigerator
+1704507400           | Home Appliances           | Whirlpool SpinDryer 900   | 5000000    | 12         | 12000      | 7          | Dryer
+1704507500           | Home Appliances           | Hamilton SwiftBrew Pro    | 2000000    | 18         | 3000       | 12         | Coffee Maker
+1704507600           | Home Appliances           | BlacknDecker DrillMate    | 1500000    | 30         | 4000       | 18         | Power Tool
+1704507700           | Home Appliances           | Tefalia AirCooker Duo     | 3000000    | 15         | 7000       | 10         | Air Fryer
+1704507800           | Home Appliances           | Dyson Cyclone V10 Pro     | 12000000   | 5          | 2500       | 2          | Vacuum Cleaner
+1704507900           | Home Appliances           | KitchenAid Artisan Mix    | 7500000    | 6          | 4000       | 3          | Mixer
+1704508000           | Home Appliances           | Instant ChefDuo Max       | 2500000    | 20         | 10000      | 15         | Pressure Cooker
+1704508100           | Home Appliances           | Morphie SpeedSteam Pro    | 2000000    | 18         | 2500       | 12         | Iron
+1704508200           | Home Appliances           | Rowentia GlideVac Ultra   | 1500000    | 25         | 3000       | 20         | Vacuum Cleaner
+1704508300           | Home Appliances           | Delongi HeatWave Deluxe   | 5000000    | 10         | 15000      | 4          | Heater
+1704508400           | Home Appliances           | Braun CleanPress Duo      | 2000000    | 22         | 1800       | 16         | Iron
+1704508500           | Home Appliances           | Ninja FoodSaver Max       | 4000000    | 12         | 8000       | 8          | Food Processor
+1704508600           | Books                     | The Great Adventure       | 120000     | 25         | 300        | 15         | Fiction
+1704508700           | Books                     | Cooking 101               | 85000      | 40         | 500        | 20         | Cookbook
+1704508800           | Books                     | Learn Python Fast         | 150000     | 30         | 700        | 18         | Programming
+1704508900           | Books                     | History of the World      | 130000     | 20         | 1000       | 10         | History
+1704509000           | Books                     | Modern Art Explained      | 110000     | 15         | 600        | 8          | Art
+1704509100           | Books                     | Yoga for Beginners        | 90000      | 25         | 400        | 12         | Fitness
+1704509200           | Books                     | Science Fun Facts         | 100000     | 35         | 300        | 20         | Science
+1704509300           | Books                     | Fantasy World: Volume 1   | 140000     | 10         | 800        | 5          | Fantasy
+1704509400           | Books                     | Mastering Chess           | 75000      | 20         | 350        | 15         | Hobby
+1704509500           | Books                     | Quick Start with HTML     | 95000      | 30         | 500        | 18         | Programming
+1704509600           | Books                     | Photography Basics        | 120000     | 12         | 700        | 7          | Hobby
+1704509700           | Books                     | Economics for Everyone    | 130000     | 18         | 900        | 10         | Education
+1704509800           | Books                     | Self-Care and You         | 85000      | 25         | 400        | 15         | Wellness
+1704509900           | Books                     | Exploring Space           | 100000     | 22         | 600        | 14         | Science
+1704510000           | Books                     | The Detective’s Journal   | 140000     | 10         | 800        | 6          | Mystery
+1704510100           | Books                     | Digital Marketing         | 125000     | 15         | 750        | 8          | Business
+1704510200           | Books                     | Classic Poems Anthology   | 75000      | 20         | 500        | 10         | Poetry
+1704510300           | Books                     | The Gardener’s Manual     | 90000      | 18         | 450        | 12         | Gardening
+1704510400           | Books                     | Horror Tales: Nightfall   | 135000     | 10         | 700        | 5          | Horror
+1704510600           | Stationery                | SmoothWrite Gel Pen       | 10000      | 100        | 50         | 60         | Pen
+1704510700           | Stationery                | ProMarker Highlighter     | 15000      | 80         | 40         | 45         | Highlighter
+1704510800           | Stationery                | QuickSharp HB Pencil      | 5000       | 150        | 20         | 80         | Pencil
+1704510900           | Stationery                | SpiralFlex A4 Notebook    | 25000      | 50         | 300        | 30         | Notebook
+1704511000           | Stationery                | StickyNote ProPack        | 20000      | 60         | 150        | 35         | Sticky Notes
+1704511100           | Stationery                | PaperMate EraserPro       | 8000       | 120        | 10         | 70         | Eraser
+1704511200           | Stationery                | DuoTip Color Markers      | 35000      | 40         | 200        | 20         | Markers
+1704511300           | Stationery                | Durable File Binder       | 50000      | 25         | 600        | 12         | Binder
+1704511400           | Stationery                | MultiRuler 30cm Pro       | 15000      | 90         | 100        | 50         | Ruler
+1704511500           | Stationery                | GlueStick MaxHold         | 10000      | 70         | 80         | 40         | Glue
+1704511600           | Stationery                | EasyCut Safety Scissors   | 20000      | 60         | 300        | 35         | Scissors
+1704511700           | Stationery                | QuickDraw Sketchbook      | 50000      | 30         | 700        | 15         | Sketchbook
+1704511800           | Stationery                | ClickMe Ballpoint Pens    | 20000      | 100        | 40         | 55         | Pen
+1704511900           | Stationery                | ClearFold Document Folder | 15000      | 70         | 500        | 30         | Folder
+1704512000           | Stationery                | ColorWave Crayon Set      | 30000      | 50         | 400        | 25         | Crayons
+1704512100           | Stationery                | SharpEdge Cutter Knife    | 20000      | 50         | 300        | 20         | Cutter
+1704512200           | Stationery                | SturdyClip Paper Clips    | 10000      | 150        | 200        | 90         | Clips
+1704512300           | Stationery                | IndexMark Page Dividers   | 15000      | 40         | 150        | 20         | Dividers
+1704512400           | Stationery                | BrightView Desk Lamp      | 80000      | 10         | 1200       | 5          | Desk Lamp
+1704512500           | Stationery                | ErgoGrip Stapler Set      | 30000      | 30         | 500        | 18         | Stapler
+1704512600           | Accessories               | SparkleStar Keychain      | 15000      | 100        | 50         | 60         | Keychain
+1704512700           | Accessories               | DreamCatcher Pendant      | 35000      | 50         | 100        | 30         | Pendant
+1704512800           | Accessories               | GlowBracelet Pack         | 25000      | 80         | 200        | 40         | Bracelet
+1704512900           | Accessories               | MysticCharm Anklet        | 20000      | 70         | 150        | 25         | Anklet
+1704513000           | Accessories               | ElegantPearl Brooch       | 40000      | 40         | 300        | 18         | Brooch
+1704513100           | Accessories               | ShimmerClip Hairpin Set   | 15000      | 90         | 250        | 50         | Hairpin
+1704513200           | Accessories               | TinyTot Earrings          | 30000      | 60         | 100        | 28         | Earrings
+1704513300           | Accessories               | ColorWave Bead Necklace   | 45000      | 30         | 400        | 20         | Necklace
+1704513400           | Accessories               | CutePaw Ring              | 20000      | 80         | 50         | 35         | Ring
+1704513500           | Accessories               | FashionPatch Iron-ons     | 10000      | 120        | 150        | 60         | Patch
+1704513600           | Accessories               | VintageLace Bookmark      | 15000      | 100        | 20         | 70         | Bookmark
+1704513700           | Accessories               | GlimmerSnow Globe Mini    | 50000      | 20         | 500        | 12         | Snow Globe
+1704513800           | Accessories               | MiniArt Photo Frame       | 30000      | 50         | 600        | 22         | Photo Frame
+1704513900           | Accessories               | LovelyHeart Charm Pack    | 25000      | 70         | 200        | 30         | Charm
+1704514000           | Accessories               | Starlight Lamp String     | 75000      | 15         | 1000       | 10         | Decorative Lights
+1704514100           | Accessories               | GlowStone Desk Ornament   | 50000      | 25         | 800        | 15         | Desk Ornament
+1704514200           | Accessories               | PopSticker Collection     | 10000      | 150        | 100        | 85         | Stickers
+1704514300           | Accessories               | TinyGarden Mini Succulent | 30000      | 40         | 500        | 18         | Plant
+1704514400           | Accessories               | CraftyRibbon Roll Set     | 20000      | 60         | 300        | 25         | Ribbon
+1704514500           | Accessories               | TrendyPin Badge Pack      | 15000      | 100        | 200        | 55         | Badge
+1704514600           | Accessories               | PlushyPanda Mini Doll     | 20000      | 50         | 300        | 25         | Doll
+1704514700           | Accessories               | SoftyBunny Keychain       | 15000      | 80         | 200        | 40         | Keychain
+1704514800           | Accessories               | CuddleBear Pillow         | 50000      | 30         | 1000       | 12         | Pillow
+1704514900           | Accessories               | MiniTeddy Charm           | 10000      | 100        | 150        | 55         | Charm
+1704515000           | Accessories               | CuteKitty Desk Ornament   | 20000      | 60         | 400        | 30         | Desk Ornament
+1704515100           | Accessories               | SmileCloud Plush Doll     | 25000      | 50         | 500        | 20         | Doll
+1704515200           | Accessories               | TinyPals Sticker Sheet    | 10000      | 120        | 50         | 65         | Stickers
+1704515300           | Accessories               | FluffyDuck Mini Plush     | 15000      | 70         | 250        | 35         | Doll
+1704515400           | Accessories               | CozyPup Blanket           | 60000      | 20         | 1500       | 10         | Blanket
+1704515500           | Accessories               | DinoPocket Plush Doll     | 30000      | 40         | 600        | 18         | Doll
+1704515600           | Fruits & Vegetables       | FreshGolden Apple         | 15000      | 100        | 1000       | 60         | Fruit
+1704515700           | Fruits & Vegetables       | SweetQueen Banana         | 12000      | 80         | 1000       | 45         | Fruit
+1704515800           | Fruits & Vegetables       | JuicyRed Watermelon       | 25000      | 50         | 1000       | 20         | Fruit
+1704515900           | Fruits & Vegetables       | LeafyGreen Spinach        | 10000      | 70         | 500        | 30         | Vegetable
+1704516000           | Fruits & Vegetables       | CrunchyCarrot Pack        | 12000      | 60         | 500        | 35         | Vegetable
+1704516100           | Fruits & Vegetables       | ZestyLime Citrus          | 8000       | 100        | 500        | 40         | Fruit
+1704516200           | Fruits & Vegetables       | FreshSweet Mango          | 20000      | 40         | 1000       | 25         | Fruit
+1704516300           | Fruits & Vegetables       | PurpleMagic Eggplant      | 10000      | 90         | 1000       | 50         | Vegetable
+1704516400           | Fruits & Vegetables       | HoneyMelon Cantaloupe     | 20000      | 30         | 1000       | 15         | Fruit
+1704516500           | Fruits & Vegetables       | FarmFresh Lettuce         | 10000      | 70         | 500        | 20         | Vegetable
+1704516600           | Fruits & Vegetables       | RosyRed Tomato Pack       | 15000      | 60         | 1000       | 25         | Vegetable
+1704516700           | Fruits & Vegetables       | EarthyPotato Sack         | 25000      | 50         | 1000       | 12         | Vegetable
+1704516800           | Fruits & Vegetables       | BrightYellow Lemon        | 10000      | 100        | 500        | 55         | Fruit
+1704516900           | Fruits & Vegetables       | GreenDream Broccoli       | 15000      | 60         | 500        | 30         | Vegetable
+1704517000           | Fruits & Vegetables       | SweetBerry Strawberry     | 30000      | 40         | 500        | 18         | Fruit
+1704517100           | Fruits & Vegetables       | CrunchBell Peppers Mix    | 20000      | 50         | 1000       | 22         | Vegetable
+1704517200           | Fruits & Vegetables       | FreshFarm Corn Cob        | 15000      | 60         | 1000       | 25         | Vegetable
+1704517300           | Fruits & Vegetables       | SweetOrange Tangerine     | 18000      | 70         | 1000       | 35         | Fruit
+1704517400           | Fruits & Vegetables       | TropicalPapaya Halves     | 22000      | 40         | 1000       | 20         | Fruit
+1704517500           | Fruits & Vegetables       | RipeAvocado Duo Pack      | 25000      | 50         | 1000       | 28         | Fruit
+1704517600           | Pet Care                  | SoftFur Pet Shampoo       | 25000      | 80         | 500        | 40         | Shampoo
+1704517700           | Pet Care                  | ChewyBone Dog Toy         | 15000      | 100        | 200        | 60         | Toy
+1704517800           | Pet Care                  | CozyNest Cat Bed          | 75000      | 30         | 2000       | 12         | Bed
+1704517900           | Pet Care                  | CrunchyTreats Snack Pack  | 20000      | 70         | 500        | 45         | Treats
+1704518000           | Pet Care                  | ScratchyPost Cat Tower    | 120000     | 20         | 8000       | 8          | Tower
+1704518100           | Pet Care                  | FreshBowl Feeding Dish    | 30000      | 60         | 1000       | 25         | Dish
+1704518200           | Pet Care                  | WaggyLeash Dog Leash      | 50000      | 50         | 700        | 20         | Leash
+1704518300           | Pet Care                  | CozyNest Pet Blanket      | 40000      | 40         | 1200       | 18         | Blanket
+1704518400           | Pet Care                  | SafePaws Nail Clipper     | 35000      | 50         | 300        | 30         | Clipper
+1704518500           | Pet Care                  | CleanPaws Litter Sand     | 25000      | 90         | 1000       | 50         | Litter
+1704518600           | Pet Care                  | GroomMaster Pet Brush     | 45000      | 60         | 400        | 22         | Brush
+1704518700           | Pet Care                  | FluffyHut Small Pet House | 80000      | 20         | 2500       | 10         | House
+1704518800           | Pet Care                  | VetCare Oral Spray        | 30000      | 40         | 150        | 15         | Spray
+1704518900           | Pet Care                  | CozySnack Rabbit Hay      | 20000      | 70         | 500        | 30         | Hay
+1704519000           | Pet Care                  | LightBowl Water Dispenser | 60000      | 30         | 2500       | 12         | Dispenser
+1704519100           | Pet Care                  | PuppyChew Training Pad    | 40000      | 50         | 1000       | 20         | Pad
+1704519200           | Pet Care                  | FreshBeak Bird Seed Mix   | 30000      | 70         | 1000       | 35         | Seed
+1704519300           | Pet Care                  | Aquarium Cleaner          | 45000      | 40         | 500        | 15         | Cleaner
+1704519400           | Pet Care                  | FeatheredFriend Bird Toy  | 15000      | 90         | 300        | 50         | Toy
+1704519500           | Pet Care                  | Purrfection Collar        | 20000      | 60         | 150        | 25         | Collar

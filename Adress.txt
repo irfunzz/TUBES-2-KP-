@@ -1,0 +1,440 @@
+Provinsi | Kota/Kabupaten | Jarak dari Kota Solo (km)
+Aceh | Kota Banda Aceh | 1900
+Aceh | Kabupaten Aceh Besar | 1850
+Aceh | Kabupaten Aceh Barat | 2000
+Aceh | Kabupaten Aceh Jaya | 2050
+Aceh | Kabupaten Aceh Tengah | 1950
+Aceh | Kabupaten Aceh Selatan | 2000
+Aceh | Kabupaten Aceh Tenggara | 1920
+Aceh | Kabupaten Aceh Timur | 1900
+Aceh | Kabupaten Bener Meriah | 1950
+Aceh | Kabupaten Pidie | 1850
+Aceh | Kabupaten Pidie Jaya | 1870
+Aceh | Kabupaten Gayo Lues | 1930
+Aceh | Kabupaten Langsa | 1800
+Aceh | Kabupaten Lhokseumawe | 1850
+Aceh | Kabupaten Nagan Raya | 1980
+Aceh | Kabupaten North Aceh | 1850
+Aceh | Kabupaten Simeulue | 2200
+Sumatera Utara | Kota Medan | 1400
+Sumatera Utara | Kabupaten Deli Serdang | 1350
+Sumatera Utara | Kabupaten Langkat | 1450
+Sumatera Utara | Kabupaten Karo | 1430
+Sumatera Utara | Kabupaten Simalungun | 1450
+Sumatera Utara | Kabupaten Asahan | 1500
+Sumatera Utara | Kabupaten Toba Samosir | 1450
+Sumatera Utara | Kabupaten Samosir | 1470
+Sumatera Utara | Kabupaten Serdang Bedagai | 1350
+Sumatera Utara | Kabupaten Labuhan Batu | 1520
+Sumatera Utara | Kabupaten Labuhan Batu Utara | 1540
+Sumatera Utara | Kabupaten Labuhan Batu Selatan | 1530
+Sumatera Utara | Kabupaten Nias | 1600
+Sumatera Utara | Kabupaten Nias Selatan | 1620
+Sumatera Utara | Kabupaten Nias Utara | 1610
+Sumatera Utara | Kabupaten Nias Barat | 1620
+Sumatera Utara | Kabupaten Mandailing Natal | 1450
+Sumatera Utara | Kabupaten Padang Lawas | 1480
+Sumatera Utara | Kabupaten Padang Lawas Utara | 1490
+Sumatera Utara | Kabupaten Tapanuli Selatan | 1450
+Sumatera Utara | Kabupaten Tapanuli Tengah | 1480
+Sumatera Utara | Kabupaten Tapanuli Utara | 1500
+Sumatera Utara | Kota Sibolga | 1480
+Sumatera Utara | Kabupaten Pematang Siantar | 1450
+Sumatera Selatan | Kota Palembang | 950
+Sumatera Selatan | Kabupaten Ogan Ilir | 930
+Sumatera Selatan | Kabupaten Ogan Komering Ulu (OKU) | 1000
+Sumatera Selatan | Kabupaten Musi Banyuasin | 980
+Sumatera Selatan | Kabupaten Lahat | 1010
+Sumatera Selatan | Kabupaten Muara Enim | 960
+Sumatera Selatan | Kabupaten Pali | 970
+Sumatera Selatan | Kabupaten Empat Lawang | 1030
+Sumatera Selatan | Kabupaten OKU Timur | 1020
+Sumatera Selatan | Kabupaten OKU Selatan | 1040
+Sumatera Selatan | Kabupaten Banyuasin | 980
+Sumatera Selatan | Kabupaten Muratara | 1050
+Sumatera Barat | Kota Padang | 1000
+Sumatera Barat | Kabupaten Solok | 980
+Sumatera Barat | Kabupaten Agam | 970
+Sumatera Barat | Kabupaten Tanah Datar | 960
+Sumatera Barat | Kabupaten Pesisir Selatan | 1020
+Sumatera Barat | Kabupaten Sijunjung | 1010
+Sumatera Barat | Kabupaten Limapuluh Kota | 950
+Sumatera Barat | Kabupaten Pasaman | 1070
+Sumatera Barat | Kabupaten Pasaman Barat | 1100
+Sumatera Barat | Kabupaten Dharmasraya | 1050
+Sumatera Barat | Kabupaten Mentawai | 1050
+Sumatera Barat | Kabupaten Padang Pariaman | 1000
+Sumatera Barat | Kabupaten 50 Kota | 950
+Bengkulu | Kota Bengkulu | 1200
+Bengkulu | Kabupaten Bengkulu Utara | 1220
+Bengkulu | Kabupaten Bengkulu Selatan | 1250
+Bengkulu | Kabupaten Kaur | 1300
+Bengkulu | Kabupaten Rejang Lebong | 1230
+Bengkulu | Kabupaten Lebong | 1270
+Bengkulu | Kabupaten Seluma | 1260
+Bengkulu | Kabupaten Mukomuko | 1310
+Bengkulu | Kabupaten Kecamatam Argamakmur | 1280
+Bengkulu | Kabupaten North Bengkulu | 1290
+Riau | Kota Pekanbaru | 1200
+Riau | Kabupaten Kampar | 1160
+Riau | Kabupaten Bengkalis | 1250
+Riau | Kabupaten Indragiri Hulu | 1300
+Riau | Kabupaten Indragiri Hilir | 1350
+Riau | Kabupaten Kuantan Singingi | 1270
+Riau | Kabupaten Rokan Hilir | 1220
+Riau | Kabupaten Rokan Hulu | 1260
+Riau | Kabupaten Siak | 1180
+Riau | Kabupaten Pelalawan | 1200
+Riau | Kabupaten Meranti | 1280
+Kepulauan Riau | Kota Batam | 1200
+Kepulauan Riau | Kota Tanjung Pinang | 1300
+Kepulauan Riau | Kabupaten Bintan | 1180
+Kepulauan Riau | Kabupaten Karimun | 1250
+Kepulauan Riau | Kabupaten Lingga | 1300
+Kepulauan Riau | Kabupaten Natuna | 1550
+Kepulauan Riau | Kabupaten Anambas | 1500
+Jambi | Kota Jambi | 1000
+Jambi | Kabupaten Batanghari | 1050
+Jambi | Kabupaten Bungo | 1100
+Jambi | Kabupaten Kerinci | 1050
+Jambi | Kabupaten Muaro Jambi | 980
+Jambi | Kabupaten Sarolangun | 1060
+Jambi | Kabupaten Tebo | 1100
+Jambi | Kabupaten Merangin | 1020
+Jambi | Kabupaten Tanjung Jabung Barat | 1080
+Jambi | Kabupaten Tanjung Jabung Timur | 1070
+Jambi | Kabupaten Kota Sungai Penuh | 1050
+Lampung | Kota Bandar Lampung | 500
+Lampung | Kabupaten Lampung Selatan | 480
+Lampung | Kabupaten Lampung Tengah | 470
+Lampung | Kabupaten Lampung Timur | 490
+Lampung | Kabupaten Tanggamus | 530
+Lampung | Kabupaten Way Kanan | 510
+Lampung | Kabupaten Pringsewu | 460
+Lampung | Kabupaten Pesawaran | 490
+Lampung | Kabupaten Tulang Bawang | 550
+Lampung | Kabupaten Tulang Bawang Barat | 560
+Lampung | Kabupaten Mesuji | 530
+Lampung | Kabupaten Pesisir Barat | 570
+Bangka Belitung | Kota Pangkal Pinang | 1050
+Bangka Belitung | Kabupaten Bangka | 1000
+Bangka Belitung | Kabupaten Belitung | 1100
+Bangka Belitung | Kabupaten Belitung Timur | 1150
+Bangka Belitung | Kabupaten Bangka Selatan | 950
+Bangka Belitung | Kabupaten Bangka Tengah | 980
+Kalimantan Barat | Kota Pontianak | 1300
+Kalimantan Barat | Kabupaten Sambas | 1270
+Kalimantan Barat | Kabupaten Bengkayang | 1280
+Kalimantan Barat | Kabupaten Sanggau | 1250
+Kalimantan Barat | Kabupaten Landak | 1230
+Kalimantan Barat | Kabupaten Mempawah | 1290
+Kalimantan Barat | Kabupaten Kubu Raya | 1300
+Kalimantan Barat | Kabupaten Kapuas Hulu | 1350
+Kalimantan Barat | Kabupaten Sintang | 1320
+Kalimantan Barat | Kabupaten Melawi | 1300
+Kalimantan Barat | Kabupaten Sekadau | 1330
+Kalimantan Barat | Kabupaten Ketapang | 1350
+Kalimantan Timur | Kota Samarinda | 1300
+Kalimantan Timur | Kota Balikpapan | 1350
+Kalimantan Timur | Kabupaten Kutai Kartanegara | 1320
+Kalimantan Timur | Kabupaten Penajam Paser Utara | 1340
+Kalimantan Timur | Kabupaten Paser | 1300
+Kalimantan Timur | Kabupaten Berau | 1400
+Kalimantan Timur | Kabupaten Kutai Timur | 1370
+Kalimantan Timur | Kabupaten Kutai Barat | 1380
+Kalimantan Timur | Kabupaten Mahakam Ulu | 1400
+Kalimantan Timur | Kabupaten Pasir | 1300
+Kalimantan Selatan | Kota Banjarmasin | 1100
+Kalimantan Selatan | Kabupaten Banjar | 1070
+Kalimantan Selatan | Kabupaten Barito Kuala | 1100
+Kalimantan Selatan | Kabupaten Tanah Laut | 1120
+Kalimantan Selatan | Kabupaten Hulu Sungai Tengah | 1150
+Kalimantan Selatan | Kabupaten Hulu Sungai Utara | 1160
+Kalimantan Selatan | Kabupaten Tabalong | 1170
+Kalimantan Selatan | Kabupaten Balangan | 1200
+Kalimantan Selatan | Kabupaten Kotabaru | 1250
+Kalimantan Selatan | Kabupaten Tanah Bumbu | 1180
+Kalimantan Selatan | Kabupaten Tapin | 1140
+Kalimantan Tengah | Kota Palangka Raya | 1100
+Kalimantan Tengah | Kabupaten Kotawaringin Barat | 1150
+Kalimantan Tengah | Kabupaten Kotawaringin Timur | 1180
+Kalimantan Tengah | Kabupaten Sukamara | 1200
+Kalimantan Tengah | Kabupaten Seruyan | 1250
+Kalimantan Tengah | Kabupaten Katingan | 1120
+Kalimantan Tengah | Kabupaten Pulang Pisau | 1100
+Kalimantan Tengah | Kabupaten Gunung Mas | 1200
+Kalimantan Tengah | Kabupaten Barito Selatan | 1150
+Kalimantan Tengah | Kabupaten Barito Utara | 1180
+Kalimantan Tengah | Kabupaten Murung Raya | 1250
+Kalimantan Tengah | Kabupaten Lamandau | 1230
+Kalimantan Utara | Kota Tarakan | 1500
+Kalimantan Utara | Kabupaten Bulungan | 1480
+Kalimantan Utara | Kabupaten Tana Tidung | 1550
+Kalimantan Utara | Kabupaten Malinau | 1600
+Kalimantan Utara | Kabupaten Nunukan | 1650
+Kalimantan Utara | Kabupaten Berau | 1450
+Banten | Kota Serang | 300
+Banten | Kota Tangerang | 350
+Banten | Kota Cilegon | 320
+Banten | Kabupaten Pandeglang | 350
+Banten | Kabupaten Lebak | 380
+Banten | Kabupaten Tangerang | 340
+Banten | Kabupaten Serang | 310
+DKI Jakarta | Kota Jakarta Pusat | 560
+DKI Jakarta | Kota Jakarta Utara | 570
+DKI Jakarta | Kota Jakarta Timur | 580
+DKI Jakarta | Kota Jakarta Selatan | 570
+DKI Jakarta | Kota Jakarta Barat | 560
+DKI Jakarta | Kabupaten Kepulauan Seribu | 580
+Jawa Barat | Kota Bandung | 200
+Jawa Barat | Kota Bekasi | 350
+Jawa Barat | Kota Depok | 330
+Jawa Barat | Kota Bogor | 300
+Jawa Barat | Kota Cimahi | 220
+Jawa Barat | Kabupaten Bandung | 210
+Jawa Barat | Kabupaten Bekasi | 340
+Jawa Barat | Kabupaten Garut | 220
+Jawa Barat | Kabupaten Cianjur | 240
+Jawa Barat | Kabupaten Purwakarta | 280
+Jawa Barat | Kabupaten Sumedang | 250
+Jawa Barat | Kabupaten Subang | 270
+Jawa Barat | Kabupaten Indramayu | 350
+Jawa Barat | Kabupaten Majalengka | 320
+Jawa Barat | Kabupaten Kuningan | 280
+Jawa Barat | Kabupaten Cirebon | 370
+Jawa Barat | Kabupaten Tasikmalaya | 230
+Jawa Barat | Kabupaten Pangandaran | 300
+Jawa Barat | Kabupaten Sukabumi | 280
+Jawa Barat | Kabupaten Karawang | 330
+Jawa Barat | Kabupaten Ciamis | 270
+Jawa Barat | Kabupaten Banjar | 260
+Jawa Tengah | Kota Semarang | 100
+Jawa Tengah | Kota Surakarta (Solo) | 0
+Jawa Tengah | Kota Salatiga | 30
+Jawa Tengah | Kota Pekalongan | 170
+Jawa Tengah | Kota Tegal | 190
+Jawa Tengah | Kabupaten Sukoharjo | 10
+Jawa Tengah | Kabupaten Karanganyar | 20
+Jawa Tengah | Kabupaten Boyolali | 20
+Jawa Tengah | Kabupaten Klaten | 20
+Jawa Tengah | Kabupaten Sragen | 30
+Jawa Tengah | Kabupaten Grobogan | 80
+Jawa Tengah | Kabupaten Blora | 90
+Jawa Tengah | Kabupaten Jepara | 120
+Jawa Tengah | Kabupaten Kudus | 120
+Jawa Tengah | Kabupaten Demak | 100
+Jawa Tengah | Kabupaten Semarang | 90
+Jawa Tengah | Kabupaten Kendal | 110
+Jawa Tengah | Kabupaten Magelang | 100
+Jawa Tengah | Kabupaten Temanggung | 90
+Jawa Tengah | Kabupaten Wonosobo | 140
+Jawa Tengah | Kabupaten Banjarnegara | 130
+Jawa Tengah | Kabupaten Purbalingga | 120
+Jawa Tengah | Kabupaten Cilacap | 170
+Jawa Tengah | Kabupaten Brebes | 180
+Jawa Tengah | Kabupaten Pemalang | 160
+Jawa Tengah | Kabupaten Batang | 120
+Jawa Tengah | Kabupaten Rembang | 130
+Jawa Tengah | Kabupaten Pati | 140
+Jawa Tengah | Kabupaten Kebumen | 160
+Jawa Tengah | Kabupaten Purworejo | 140
+Jawa Tengah | Kabupaten Wonogiri | 40
+DI Yogyakarta | Kota Yogyakarta | 60
+DI Yogyakarta | Kabupaten Sleman | 50
+DI Yogyakarta | Kabupaten Bantul | 40
+DI Yogyakarta | Kabupaten Kulon Progo | 70
+DI Yogyakarta | Kabupaten Gunung Kidul | 80
+Jawa Timur | Kota Surabaya | 110
+Jawa Timur | Kota Malang | 180
+Jawa Timur | Kota Kediri | 160
+Jawa Timur | Kota Mojokerto | 130
+Jawa Timur | Kota Probolinggo | 220
+Jawa Timur | Kabupaten Sidoarjo | 120
+Jawa Timur | Kabupaten Pasuruan | 140
+Jawa Timur | Kabupaten Gresik | 120
+Jawa Timur | Kabupaten Bangkalan | 220
+Jawa Timur | Kabupaten Lamongan | 140
+Jawa Timur | Kabupaten Jombang | 150
+Jawa Timur | Kabupaten Nganjuk | 160
+Jawa Timur | Kabupaten Madiun | 160
+Jawa Timur | Kabupaten Magetan | 180
+Jawa Timur | Kabupaten Ponorogo | 190
+Jawa Timur | Kabupaten Trenggalek | 200
+Jawa Timur | Kabupaten Tulungagung | 190
+Jawa Timur | Kabupaten Blitar | 200
+Jawa Timur | Kabupaten Kediri | 160
+Jawa Timur | Kabupaten Malang | 180
+Jawa Timur | Kabupaten Lumajang | 210
+Jawa Timur | Kabupaten Banyuwangi | 300
+Jawa Timur | Kabupaten Situbondo | 240
+Jawa Timur | Kabupaten Probolinggo | 220
+Jawa Timur | Kabupaten Sumenep | 340
+Jawa Timur | Kabupaten Bondowoso | 250
+Jawa Timur | Kabupaten Jember | 270
+Jawa Timur | Kabupaten Pamekasan | 330
+Jawa Timur | Kabupaten Bojonegoro | 130
+Jawa Timur | Kabupaten Ngawi | 150
+Jawa Timur | Kabupaten Karanganyar | 80
+Bali | Kota Denpasar | 530
+Bali | Kabupaten Badung | 540
+Bali | Kabupaten Gianyar | 520
+Bali | Kabupaten Tabanan | 550
+Bali | Kabupaten Klungkung | 560
+Bali | Kabupaten Bangli | 570
+Bali | Kabupaten Karangasem | 600
+Bali | Kabupaten Buleleng | 630
+Nusa Tenggara Timur | Kota Kupang | 1600
+Nusa Tenggara Timur | Kabupaten Manggarai | 1750
+Nusa Tenggara Timur | Kabupaten Sikka | 1700
+Nusa Tenggara Timur | Kabupaten Ende | 1650
+Nusa Tenggara Timur | Kabupaten Nagekeo | 1650
+Nusa Tenggara Timur | Kabupaten Lembata | 1800
+Nusa Tenggara Timur | Kabupaten Alor | 1850
+Nusa Tenggara Timur | Kabupaten Flores Timur | 1700
+Nusa Tenggara Timur | Kabupaten Rote Ndao | 1700
+Nusa Tenggara Timur | Kabupaten Timor Tengah Utara | 1600
+Nusa Tenggara Timur | Kabupaten Timor Tengah Selatan | 1650
+Nusa Tenggara Timur | Kabupaten Belu | 1650
+Nusa Tenggara Timur | Kabupaten Malaka | 1650
+Nusa Tenggara Timur | Kabupaten Kupang | 1550
+Nusa Tenggara Barat | Kota Mataram | 1150
+Nusa Tenggara Barat | Kabupaten Lombok Barat | 1180
+Nusa Tenggara Barat | Kabupaten Lombok Timur | 1200
+Nusa Tenggara Barat | Kabupaten Lombok Tengah | 1190
+Nusa Tenggara Barat | Kabupaten Sumbawa | 1400
+Nusa Tenggara Barat | Kabupaten Bima | 1450
+Nusa Tenggara Barat | Kabupaten Dompu | 1480
+Nusa Tenggara Barat | Kabupaten Sumbawa Barat | 1380
+Nusa Tenggara Barat | Kabupaten West Sumbawa | 1400
+orontalo | Kota Gorontalo | 1800
+Gorontalo | Kabupaten Gorontalo | 1850
+Gorontalo | Kabupaten Bone Bolango | 1830
+Gorontalo | Kabupaten Pohuwato | 1900
+Gorontalo | Kabupaten Boalemo | 1880
+Gorontalo | Kabupaten Humbang Hasundutan | 1860
+Gorontalo | Kabupaten Gorontalo Utara | 1870
+Sulawesi Barat | Kota Mamuju | 1450
+Sulawesi Barat | Kabupaten Majene | 1480
+Sulawesi Barat | Kabupaten Polewali Mandar | 1460
+Sulawesi Barat | Kabupaten Mamasa | 1500
+Sulawesi Barat | Kabupaten Mamuju Utara | 1450
+Sulawesi Tengah | Kota Palu | 1700
+Sulawesi Tengah | Kabupaten Donggala | 1650
+Sulawesi Tengah | Kabupaten Sigi | 1680
+Sulawesi Tengah | Kabupaten Parigi Moutong | 1750
+Sulawesi Tengah | Kabupaten Poso | 1800
+Sulawesi Tengah | Kabupaten Tojo Una-Una | 1850
+Sulawesi Tengah | Kabupaten Morowali | 1850
+Sulawesi Tengah | Kabupaten Buol | 1900
+Sulawesi Tengah | Kabupaten Toli-Toli | 1850
+Sulawesi Tengah | Kabupaten Banggai | 1800
+Sulawesi Utara | Kota Manado | 2200
+Sulawesi Utara | Kabupaten Minahasa | 2200
+Sulawesi Utara | Kabupaten Bolaang Mongondow | 2150
+Sulawesi Utara | Kabupaten Gorontalo | 2100
+Sulawesi Utara | Kabupaten Kepulauan Sangihe | 2250
+Sulawesi Utara | Kabupaten Kepulauan Talaud | 2300
+Sulawesi Utara | Kabupaten Tomohon | 2200
+Sulawesi Utara | Kabupaten Minahasa Tenggara | 2200
+Sulawesi Utara | Kabupaten Bolaang Mongondow Utara | 2130
+Sulawesi Utara | Kabupaten Bolaang Mongondow Selatan | 2120
+Sulawesi Tenggara | Kota Kendari | 1700
+Sulawesi Tenggara | Kabupaten Kolaka | 1650
+Sulawesi Tenggara | Kabupaten Buton | 1800
+Sulawesi Tenggara | Kabupaten Konawe | 1700
+Sulawesi Tenggara | Kabupaten Bombana | 1750
+Sulawesi Tenggara | Kabupaten Wakatobi | 1850
+Sulawesi Tenggara | Kabupaten Muna | 1800
+Sulawesi Tenggara | Kabupaten Konawe Selatan | 1720
+Sulawesi Tenggara | Kabupaten Konawe Utara | 1680
+Sulawesi Tenggara | Kabupaten Buru | 1850
+Sulawesi Selatan | Kota Makassar | 1150
+Sulawesi Selatan | Kabupaten Gowa | 1150
+Sulawesi Selatan | Kabupaten Takalar | 1180
+Sulawesi Selatan | Kabupaten Maros | 1120
+Sulawesi Selatan | Kabupaten Pangkajene dan Kepulauan | 1200
+Sulawesi Selatan | Kabupaten Barru | 1220
+Sulawesi Selatan | Kabupaten Bone | 1250
+Sulawesi Selatan | Kabupaten Sinjai | 1280
+Sulawesi Selatan | Kabupaten Selayar | 1300
+Sulawesi Selatan | Kabupaten Sidenreng Rappang | 1260
+Sulawesi Selatan | Kabupaten Enrekang | 1300
+Sulawesi Selatan | Kabupaten Luwu | 1330
+Sulawesi Selatan | Kabupaten Luwu Utara | 1370
+Sulawesi Selatan | Kabupaten Luwu Timur | 1400
+Sulawesi Selatan | Kabupaten Wajo | 1250
+Sulawesi Selatan | Kabupaten Tana Toraja | 1600
+Sulawesi Selatan | Kabupaten Toraja Utara | 1580
+Maluku Utara | Kota Ternate | 2300
+Maluku Utara | Kota Tidore Kepulauan | 2320
+Maluku Utara | Kabupaten Halmahera Utara | 2350
+Maluku Utara | Kabupaten Halmahera Selatan | 2400
+Maluku Utara | Kabupaten Halmahera Timur | 2380
+Maluku Utara | Kabupaten Halmahera Barat | 2370
+Maluku Utara | Kabupaten Pulau Morotai | 2450
+Maluku Utara | Kabupaten Kepulauan Sula | 2500
+Maluku Utara | Kabupaten Pulau Taliabu | 2450
+Maluku | Kota Ambon | 2350
+Maluku | Kabupaten Maluku Tengah | 2400
+Maluku | Kabupaten Maluku Tenggara | 2450
+Maluku | Kabupaten Maluku Barat Daya | 2500
+Maluku | Kabupaten Seram Bagian Barat | 2450
+Maluku | Kabupaten Seram Bagian Timur | 2500
+Maluku | Kabupaten Buru | 2600
+Maluku | Kabupaten Buru Selatan | 2650
+Maluku | Kabupaten Kepulauan Aru | 2700
+Papua Barat | Kota Manokwari | 2800
+Papua Barat | Kabupaten Fakfak | 2900
+Papua Barat | Kabupaten Kaimana | 2950
+Papua Barat | Kabupaten Raja Ampat | 3100
+Papua Barat | Kabupaten Sorong | 2850
+Papua Barat | Kabupaten Maybrat | 2900
+Papua Barat | Kabupaten Tambrauw | 2900
+Papua Barat | Kabupaten Arfak | 2950
+Papua | Kabupaten Jayapura | 2950
+Papua | Kabupaten Keerom | 2900
+Papua | Kabupaten Nabire | 3100
+Papua | Kabupaten Mimika | 3200
+Papua | Kabupaten Boven Digoel | 3300
+Papua | Kabupaten Asmat | 3350
+Papua | Kabupaten Merauke | 3400
+Papua | Kabupaten Yahukimo | 3250
+Papua | Kabupaten Pegunungan Bintang | 3300
+Papua | Kabupaten Waropen | 3150
+Papua | Kabupaten Supiori | 3200
+Papua | Kabupaten Biak Numfor | 3000
+Papua Tengah | Kota Wamena | 3150
+Papua Tengah | Kabupaten Jayawijaya | 3150
+Papua Tengah | Kabupaten Lanny Jaya | 3200
+Papua Tengah | Kabupaten Nduga | 3250
+Papua Tengah | Kabupaten Mamberamo Tengah | 3300
+Papua Tengah | Kabupaten Tolikara | 3200
+Papua Tengah | Kabupaten Yalimo | 3250
+Papua Tengah | Kabupaten Puncak Jaya | 3150
+Papua Tengah | Kabupaten Puncak | 3150
+Papua Tengah | Kabupaten Dogiyai | 3300
+Papua Pegunungan | Kota Jayapura | 3000
+Papua Pegunungan | Kabupaten Lanny Jaya | 3200
+Papua Pegunungan | Kabupaten Nduga | 3250
+Papua Pegunungan | Kabupaten Tolikara | 3200
+Papua Pegunungan | Kabupaten Yalimo | 3250
+Papua Pegunungan | Kabupaten Mamberamo Tengah | 3300
+Papua Pegunungan | Kabupaten Mamberamo Raya | 3250
+Papua Pegunungan | Kabupaten Dogiyai | 3300
+Papua Pegunungan | Kabupaten Deiyai | 3300
+Papua Pegunungan | Kabupaten Intan Jaya | 3250
+Papua Selatan | Kota Merauke | 3400
+Papua Selatan | Kabupaten Boven Digoel | 3300
+Papua Selatan | Kabupaten Mappi | 3350
+Papua Selatan | Kabupaten Asmat | 3400
+Papua Selatan | Kabupaten Yahukimo | 3250
+Papua Selatan | Kabupaten Pegunungan Bintang | 3300
+Papua Selatan | Kabupaten Waropen | 3150
+Papua Selatan | Kabupaten Supiori | 3200
+Papua Barat Daya | Kota Sorong | 2850
+Papua Barat Daya | Kabupaten Raja Ampat | 3100
+Papua Barat Daya | Kabupaten Fakfak | 2900
+Papua Barat Daya | Kabupaten Kaimana | 2950
+Papua Barat Daya | Kabupaten Tambrauw | 2900
+Papua Barat Daya | Kabupaten Maybrat | 2900
+Papua Barat Daya | Kabupaten Arfak | 2950

@@ -1,0 +1,8 @@
+Username             | Pass                 | Email                | Code       | Adress     | Balance   
+MASTER               | MAS123               | MAS@Gmeil            | 0          | 0          | 999951999 
+Irfan                | Lampung              | Irfanemail           | 1          | 105        | 0         
+1                    | 1                    | 1                    | 2          | 115        | 1187731   
+Ayam                 | Ayam                 | Ayam                 | 3          | 2          | 0         
+MASTER42             | aa                   | MAS                  | 4          | 100        | 0         
+Irfan1               | A                    | A                    | 5          | 111        | 0         
+2                    | 2                    | 2                    | 6          | 112        | 0         

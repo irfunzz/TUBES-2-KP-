@@ -1,0 +1,6 @@
+Name | Price/gram | Speed (km/h)
+JNA Reguler | 10 | 10
+JNA Express | 20 | 25
+JNA Rocket | 400 | 500
+Go Grab | 5 | 5
+Tiger Parcel | 30 | 25
